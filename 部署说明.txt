@@ -1,0 +1,6 @@
+1、将root目录下的内容部署到tomcat
+2、将scenexam.sql导入mysql
+3、修改ROOT\WEB-INF\classes\config.properties中的数据库连接信息
+4、启动tomcat
+
+提醒：建议对tomcat做一些基本的优化（如JVM，并发数等）
